@@ -1962,7 +1962,7 @@
 // entity 71
 {
 "classname" "light"
-"origin" "-248 -104 120"
+"origin" "-136 -104 104"
 }
 // entity 72
 {
@@ -2007,7 +2007,7 @@
 // entity 80
 {
 "classname" "light"
-"origin" "-440 -1256 200"
+"origin" "-424 -1240 200"
 }
 // entity 81
 {
@@ -2068,4 +2068,144 @@
 {
 "classname" "light"
 "origin" "200 184 344"
+}
+// entity 93
+{
+"classname" "light"
+"origin" "-152 -1112 200"
+}
+// entity 94
+{
+"classname" "light"
+"origin" "488 -1192 136"
+}
+// entity 95
+{
+"classname" "light"
+"origin" "616 -1048 168"
+}
+// entity 96
+{
+"classname" "light"
+"origin" "-120 72 200"
+}
+// entity 97
+{
+"classname" "light"
+"origin" "-24 -600 24"
+}
+// entity 98
+{
+"classname" "light"
+"origin" "152 -232 24"
+}
+// entity 99
+{
+"classname" "light"
+"origin" "88 120 24"
+}
+// entity 100
+{
+"classname" "light"
+"origin" "-392 616 216"
+}
+// entity 101
+{
+"classname" "light"
+"origin" "-312 424 200"
+}
+// entity 102
+{
+"classname" "light"
+"origin" "-440 -120 120"
+}
+// entity 103
+{
+"classname" "light"
+"origin" "-488 184 24"
+}
+// entity 104
+{
+"classname" "light"
+"origin" "-504 472 24"
+}
+// entity 105
+{
+"classname" "light"
+"origin" "-616 -248 24"
+}
+// entity 106
+{
+"classname" "light"
+"origin" "264 -104 120"
+}
+// entity 107
+{
+"classname" "light"
+"origin" "520 -120 120"
+}
+// entity 108
+{
+"classname" "light"
+"origin" "968 40 -40"
+}
+// entity 109
+{
+"classname" "light"
+"origin" "1080 -168 -8"
+}
+// entity 110
+{
+"classname" "light"
+"origin" "936 -360 40"
+}
+// entity 111
+{
+"classname" "light"
+"origin" "1112 40 56"
+}
+// entity 112
+{
+"classname" "light"
+"origin" "1224 -328 -24"
+}
+// entity 113
+{
+"classname" "light"
+"origin" "1224 -24 -8"
+}
+// entity 114
+{
+"classname" "light"
+"origin" "1048 -392 24"
+}
+// entity 115
+{
+"classname" "light"
+"origin" "-248 -280 200"
+}
+// entity 116
+{
+"classname" "light"
+"origin" "1016 -584 40"
+}
+// entity 117
+{
+"classname" "light"
+"origin" "888 -712 -56"
+}
+// entity 118
+{
+"classname" "light"
+"origin" "1016 -1048 24"
+}
+// entity 119
+{
+"classname" "light"
+"origin" "984 -1192 56"
+}
+// entity 120
+{
+"classname" "light"
+"origin" "792 -1048 40"
 }
